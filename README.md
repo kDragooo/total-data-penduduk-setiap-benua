@@ -12,3 +12,5 @@ Repositori ini menyediakan **data populasi penduduk di setiap benua** yang dikum
 1. **Clone repositori ini**  
    ```bash
    git clone https://github.com/JadesMichizaru/total-data-penduduk-setiap-benua.git
+
+2. **Gunakan data CSV langsung di Excel, Google Sheets, atau tools analisis lainnya.**
