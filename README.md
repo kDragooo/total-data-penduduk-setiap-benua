@@ -82,3 +82,6 @@ Kontribusi sangat diterima untuk:
 # ✉️ Kontak
 
 - **Pemilik Repositori: [JadesMichizaru](https://github.com/JadesMichizaru/)**
+
+# 📜 License
+[MIT](https://choosealicense.com/licenses/mit/)
