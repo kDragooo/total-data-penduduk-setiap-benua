@@ -6,17 +6,9 @@
 
 Repositori ini menyediakan **data populasi penduduk di setiap benua** yang dikumpulkan dari berbagai sumber terpercaya. Data ini berguna untuk analisis statistik, penelitian demografi, atau proyek pemetaan populasi dunia.  
 
-## 📂 Struktur Data  
-total-data-penduduk-setiap-benua/
-├── data/ # Folder utama berisi dataset
-│ ├── africa.csv # Populasi negara-negara di Afrika
-│ ├── asia.csv # Populasi negara-negara di Asia
-│ ├── europe.csv # Populasi negara-negara di Eropa
-│ ├── north_america.csv # Populasi Amerika Utara
-│ ├── south_america.csv # Populasi Amerika Selatan
-│ ├── oceania.csv # Populasi Oseania (Australia & Pasifik)
-│ └── antarctica.csv # Data penduduk di Antartika (minimal)
-├── scripts/ # (Opsional) Script pengolahan data
-│ └── process_data.py # Contoh script Python untuk analisis
-├── LICENSE
-└── README.md
+## 📌 Cara Menggunakan  
+
+### 📥 Mengunduh Data  
+1. **Clone repositori ini**  
+   ```bash
+   git clone https://github.com/JadesMichizaru/total-data-penduduk-setiap-benua.git
